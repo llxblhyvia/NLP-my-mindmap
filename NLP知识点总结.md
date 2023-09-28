@@ -147,7 +147,8 @@ SFT+RM+RL->RLHF
 
 ## GLM
 
-## LoRA
+# PEFT
+See [PEFT.md](PEFT笔记.md)
 
 
 
